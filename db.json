@@ -1,0 +1,18 @@
+{
+  "workout": [
+    {
+      "id": "c41d",
+      "Workoutname": "leg press",
+      "WorkoutType": "Leg",
+      "WorkoutDay": "Wednesday",
+      "Duration": "15"
+    },
+    {
+      "id": "c41d",
+      "Workoutname": "dumbel curl",
+      "WorkoutType": "Biceps",
+      "WorkoutDay": "Monday",
+      "Duration": "15"
+    }
+  ]
+}
